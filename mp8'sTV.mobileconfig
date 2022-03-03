@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.62D97FBB-69D9-4B2B-AF7D-9FCC2B5F8A84</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>62D97FBB-69D9-4B2B-AF7D-9FCC2B5F8A84</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>172.20.9.215</string>
+			<key>ProxyServerPort</key>
+			<integer>8899</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>MarriottBonvoy_Guest</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>mp8'sTV</string>
+	<key>PayloadIdentifier</key>
+	<string>TonydeMacBook-Pro.983AD9B3-DB17-49CF-A695-FD9F328F72BE</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>530E8A30-E22B-4AED-82FA-DB6E8CF1B864</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
